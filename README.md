@@ -11,3 +11,4 @@ The project also demonstrates the use of Firebase's authentication service to en
 Finally, the project aims to provide a practical example of how to structure a React application using reusable components and best practices, such as state management using hooks and conditional rendering.
 
 Overall, the Chat-Application-using-React-and-Firebase project is an excellent way to learn how to build real-time chat applications using React and Firebase, providing developers with the skills and knowledge necessary to create their own real-time applications.
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/72157667/231780644-b21e948d-0e83-4cd2-847c-208c1248f1dc.png">
